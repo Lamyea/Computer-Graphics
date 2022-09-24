@@ -1,0 +1,5 @@
+#myCanvas {
+  width: 100% !important;
+  height: auto !important;
+  background-image: radial-gradient(#3d4040 , #4a4067);
+}
